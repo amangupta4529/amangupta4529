@@ -4,6 +4,8 @@
 - 👨‍💼 working in Zscaler from past 9 Months
 - 🧑‍💻 Tech I Use - React js, Javascript, java, DSA, HTML, CSS, Rest API, MySQL, Docker, Git, Linux
 - 📫 email- amangupta4529@gmail.com
+- Leetcode- https://leetcode.com/amangupta4529/
+- Linkedin- https://www.linkedin.com/in/aman-gupta-43511419b/
 
 <!---
 amangupta4529/amangupta4529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
